@@ -6,14 +6,14 @@ Different Optimizer: In this section, we compare performances of GradientDescent
 
 Dataset and Model used: Pre-trained Very deep Convolutional neural network Model of 16(VGG16) and 19(VGG19) layers is used. Dataset is a 82,000 Images taken from COCO Captioning Challenge( http://mscoco.org/dataset/#download)
 
-Technology used
-Tensorflow
-Deep Convolution Neural Network
-Keras
-Amazon EC2 instance with p2.8xlarge
-Nvidia Tesla GPU K80
-Filezilla
-Flyod Hub
-Anaconda Python
-AMI-Udacity_dl AWS instance
+Technology used 
+1. Tensorflow
+2. Deep Convolution Neural Network
+3. Keras
+4. Amazon EC2 instance with p2.8xlarge
+5. Nvidia Tesla GPU K80
+6. Filezilla
+7. Flyod Hub
+8. Anaconda Python
+9. AMI-Udacity_dl AWS instance
 

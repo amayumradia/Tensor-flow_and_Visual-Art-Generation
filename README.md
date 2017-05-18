@@ -1,5 +1,7 @@
 # Tensor-flow_and_image
 CS-63 Big Data Analytics Project
+
+Goal:
 Demonstrate the technology that can enable artists/painters to apply their imaginative styles from an image to any targeted image, generating a visual art from machine learning technique such as deep learning (hidden/deep convolutional neural network) and utilizing the massive available computing power (AWS GPUs)”
 
 Visual Art-style transfer: Demonstrate Style Transfer and Color transfer technique for Visual Art generation
